@@ -23,7 +23,7 @@ def haversine(lat1, lon1, lat2, lon2):
 # Static Cost Data (Mocked)
 # ------------------------------
 mock_city_costs = {
-    "": 0, "Delhi": 40000, "Mumbai": 45000, "Bangalore": 42000, "Hyderabad": 37000,
+    "":0, "Delhi": 40000, "Mumbai": 45000, "Bangalore": 42000, "Hyderabad": 37000,
     "Ahmedabad": 35000, "Chennai": 39000, "Kolkata": 36000, "Pune": 38000,
     "Jaipur": 32000, "Lucknow": 31000, "Kanpur": 30000, "Nagpur": 32000,
     "Indore": 31000, "Thane": 35000, "Bhopal": 30000, "Visakhapatnam": 33000,
@@ -142,7 +142,7 @@ if st.button("Submit Preferences", key="submit_button_final"):
     # Add Food & Income Preferences
     for pref, val in food_prefs.items():
         df_locations[pref] = val
-    df_locations["Income"] = numeric_income
+    df_locations["Income"] = numeric_income``
     df_locations["Estimated City Cost"] = cost
 
     # Score Calculations
