@@ -7,7 +7,7 @@ GeoDiscovery is a project designed to help individuals to find the best accommod
 ### Data Set:
 The data set used in the project can be downloaded from: https://drive.google.com/drive/folders/1TbRjwBz3Pvy0Fn8t__DUmZgtj21ttDhn?usp=sharing
 ### Data Dictionary:
-The data dictionary document explains the meaning of the CSV values in the data set and can be downloaded from: https://www.kaggle.com/borapajo/food-choices
+The data dictionary document explains the meaning of the CSV values in the data set and can be downloaded from: https://www.kaggle.com/borapajo/food-choices<br>
 
 ## (User-centric and dynamic version)<br>
 
