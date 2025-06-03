@@ -72,6 +72,6 @@ This is an intelligent, user-centric web application that helps users discover o
    - Displayed on an interactive map
    - Exportable as CSV
 
-🙋‍♂️ Author
-Mradul Gupta
-Built as part of a major project presentation for a data science application.
+# 🙋‍♂️ Author
+**Mradul Gupta**
+***Built as part of a major project presentation for a data science application.***
