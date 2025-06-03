@@ -10,7 +10,7 @@ The data set used in the project can be downloaded from: https://drive.google.co
 The data dictionary document explains the meaning of the CSV values in the data set and can be downloaded from: https://www.kaggle.com/borapajo/food-choices
 
 
-## (User-centric and dynamic version):
+## <br>(User-centric and dynamic version):
 
 # 🏙️ Relocation Recommendation System
 
