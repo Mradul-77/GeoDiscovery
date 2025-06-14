@@ -142,7 +142,7 @@ if st.button("Submit Preferences", key="submit_button_final"):
     # Add Food & Income Preferences
     for pref, val in food_prefs.items():
         df_locations[pref] = val
-    df_locations["Income"] = numeric_income``
+    df_locations["Income"] = numeric_income
     df_locations["Estimated City Cost"] = cost
 
     # Score Calculations
